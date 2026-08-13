@@ -73,11 +73,11 @@ void solve() {
 	ll n ;
 	cin >> n;
 
-	while (n != 1) {
+	while (n != 1) { // looping until n turns 1
 
 		cout << n << " ";
 
-		if (n % 2)
+		if (n % 2) // checking if n is odd
 		{
 			n = 3 * n + 1LL;
 		}

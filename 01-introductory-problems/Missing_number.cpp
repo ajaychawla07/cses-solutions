@@ -79,10 +79,10 @@ void solve() {
 	{
 		int x ; cin >> x;
 
-		sum += x;
+		sum += x; // taking sum of all the numbers given .
 	}
 
-	cout << n*(n + 1) / 2 - sum ;
+	cout << n*(n + 1) / 2 - sum ; // using formula of sum of 1st n terms here ..
 
 
 
