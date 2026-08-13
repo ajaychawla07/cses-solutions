@@ -1,0 +1,12 @@
+# Compiled binaries
+*.out
+*.exe
+a.out
+*.o
+
+# macOS junk
+.DS_Store
+
+# Editor stuff
+.vscode/
+*.swp
