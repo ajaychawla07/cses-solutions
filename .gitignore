@@ -9,3 +9,6 @@ a.out
 *:tests
 
 
+# Ignore all compiled binaries prefixed with executable_
+executable_*
+
