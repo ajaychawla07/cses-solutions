@@ -1,0 +1,14 @@
+*.out
+*.exe
+a.out
+*.o
+.DS_Store
+.vscode/
+*.swp
+
+*:tests
+
+
+# Ignore all compiled binaries prefixed with executable_
+executable_*
+
